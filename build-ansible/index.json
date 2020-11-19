@@ -1,0 +1,42 @@
+{
+  "title": "Building Ansible",
+  "description": "",
+  "details": {
+    "steps": [
+      {
+        "title": "Setup the Environment",
+        "text": "step01.md"
+      },
+      {
+        "title": "Building Ansible",
+        "text": "step02.md"
+      },
+      {
+        "title": "Building Ansible",
+        "text": "step03.md"
+      },
+      {
+        "title": "Building Ansible",
+        "text": "step04.md"
+      },
+      {
+        "title": "Building Ansible",
+        "text": "step05.md"
+      },
+      {
+        "title": "Building Ansible",
+        "text": "step06.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "hideintro": true,
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
+}
