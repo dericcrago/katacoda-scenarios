@@ -1,0 +1,22 @@
+{
+  "title": "Building Ansible",
+  "description": "",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 01",
+        "text": "step01.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "hideintro": true,
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "python:3.6"
+  }
+}
